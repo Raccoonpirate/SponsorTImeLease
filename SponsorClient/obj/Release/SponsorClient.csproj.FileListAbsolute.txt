@@ -1,0 +1,8 @@
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\bin\Release\SponsorClient.exe.config
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\bin\Release\SponsorClient.exe
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\bin\Release\SponsorClient.pdb
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\bin\Release\SponsorLibrary.dll
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\bin\Release\SponsorLibrary.pdb
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\obj\Release\SponsorClient.csprojResolveAssemblyReference.cache
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\obj\Release\SponsorClient.exe
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorClient\obj\Release\SponsorClient.pdb

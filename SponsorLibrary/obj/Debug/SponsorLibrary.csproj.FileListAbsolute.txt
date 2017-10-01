@@ -1,0 +1,4 @@
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorLibrary\bin\Debug\SponsorLibrary.dll
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorLibrary\bin\Debug\SponsorLibrary.pdb
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorLibrary\obj\Debug\SponsorLibrary.dll
+C:\Users\Егорушкин\Desktop\new shit\sponsor-project-master\sponsor-project-master\SponsorLibrary\obj\Debug\SponsorLibrary.pdb
